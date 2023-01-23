@@ -1,4 +1,4 @@
-# jranga-rgomathi-srchell-a3
+
 Report submitted by Sri Varsha Chellapilla, Gomati Sankarakrishnan Rahul, Jaswanth Kumar Ranga
 ## Part 1: Part-Of-Speech Tagging
 A part-of-speech tag is a label assigned to each word in a text (sequence of words) to indicate the part of speech to which it belongs.
